@@ -1,2 +1,3 @@
 # hello-world
-hello
+
+Making all kindz of coding gainz
